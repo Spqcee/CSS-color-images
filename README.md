@@ -1,5 +1,7 @@
 # Basic Backgrounds
 These backgrounds are meant for personal use but you can use them if you'd like.
-All backgrounds are 3840x2160 px (4K) unless stated otherwise.
+All backgrounds are 3840x2160 px (4K) unless stated otherwise and are created manually without the use of an automated script.
 
-There are currently 30 images. All colors are from the [W3schools color list](https://www.w3schools.com/cssref/css_colors.php).
+All colors are from the [W3schools color list](https://www.w3schools.com/cssref/css_colors.php).
+
+30 colors total so far.
